@@ -12,6 +12,9 @@ elif(b>a):
 else:
 	print("We have Equal value")
 
+Result:
+We have Equal value
+
 
 
 
