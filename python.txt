@@ -1,0 +1,18 @@
+Python - Programming Language
+
+Eg: Basic program -> find the greatest value
+
+a = 5
+b = 5
+
+if(a>b):
+	print(a + "Greatest value")
+elif(b>a):
+	print(b + "Greatest value")
+else:
+	print("We have Equal value")
+
+
+
+
+	
